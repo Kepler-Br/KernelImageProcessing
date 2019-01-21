@@ -1,4 +1,4 @@
-﻿**Kernel image processing**
+# Kernel image processing
 
 Program with GUI that allows you to: 
 * Process your images with matrix (aka kernel);
@@ -22,9 +22,9 @@ How to start working with this?
 
 Press `Do it!` button. 
 
-Divider will divide every pixel by its value. 
+Divider will divide every pixel by its value.
 
-If divider set to 0, then it tries to calculate it automatically. 
+If divider set to 0, then it tries to calculate it automatically.
 
 Offset parameter will sum to color of every pixel. 
 
